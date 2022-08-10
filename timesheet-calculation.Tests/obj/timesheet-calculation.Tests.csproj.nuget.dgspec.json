@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Tests/timesheet-calculation.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Business/timesheet-calculation.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Business/timesheet-calculation.Business.csproj",
+        "projectName": "timesheet-calculation.Business",
+        "projectPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Business/timesheet-calculation.Business.csproj",
+        "packagesPath": "/Users/thn/.nuget/packages/",
+        "outputPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/timesheet-calculation.Common.csproj": {
+                "projectPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/timesheet-calculation.Common.csproj"
+              },
+              "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Data/timesheet-calculation.Data.csproj": {
+                "projectPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Data/timesheet-calculation.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "X.PagedList": {
+              "target": "Package",
+              "version": "[8.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/timesheet-calculation.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/timesheet-calculation.Common.csproj",
+        "projectName": "timesheet-calculation.Common",
+        "projectPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/timesheet-calculation.Common.csproj",
+        "packagesPath": "/Users/thn/.nuget/packages/",
+        "outputPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Data/timesheet-calculation.Data.csproj": {
+                "projectPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Data/timesheet-calculation.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "X.PagedList": {
+              "target": "Package",
+              "version": "[8.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Data/timesheet-calculation.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Data/timesheet-calculation.Data.csproj",
+        "projectName": "timesheet-calculation.Data",
+        "projectPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Data/timesheet-calculation.Data.csproj",
+        "packagesPath": "/Users/thn/.nuget/packages/",
+        "outputPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Tests/timesheet-calculation.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Tests/timesheet-calculation.Tests.csproj",
+        "projectName": "timesheet-calculation.Tests",
+        "projectPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Tests/timesheet-calculation.Tests.csproj",
+        "packagesPath": "/Users/thn/.nuget/packages/",
+        "outputPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Business/timesheet-calculation.Business.csproj": {
+                "projectPath": "/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Business/timesheet-calculation.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DrCwnsGcQf+T25ADnLACh7fYVimiML7XJAm74FLG6iQ=",
+  "Source": "timesheet-calculation.Api",
+  "BasePath": "_content/timesheet-calculation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

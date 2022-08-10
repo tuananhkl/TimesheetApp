@@ -1,0 +1,15 @@
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/bin/Debug/net6.0/timesheet-calculation.Common.deps.json
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/bin/Debug/net6.0/timesheet-calculation.Common.dll
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/bin/Debug/net6.0/timesheet-calculation.Common.pdb
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/bin/Debug/net6.0/timesheet-calculation.Data.dll
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/bin/Debug/net6.0/timesheet-calculation.Data.pdb
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/timesheet-calculation.Common.csproj.AssemblyReference.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/timesheet-calculation.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/timesheet-calculation.Common.AssemblyInfoInputs.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/timesheet-calculation.Common.AssemblyInfo.cs
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/timesheet-calculation.Common.csproj.CoreCompileInputs.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/timesheet-calculation.Common.csproj.CopyComplete
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/timesheet-calculation.Common.dll
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/refint/timesheet-calculation.Common.dll
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/timesheet-calculation.Common.pdb
+/Users/thn/RiderProjects/timesheet-calculation-app/timesheet-calculation.Common/obj/Debug/net6.0/ref/timesheet-calculation.Common.dll

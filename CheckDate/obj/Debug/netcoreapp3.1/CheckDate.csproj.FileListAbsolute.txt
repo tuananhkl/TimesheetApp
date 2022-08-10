@@ -1,0 +1,14 @@
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/bin/Debug/netcoreapp3.1/CheckDate
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/bin/Debug/netcoreapp3.1/CheckDate.deps.json
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/bin/Debug/netcoreapp3.1/CheckDate.runtimeconfig.json
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/bin/Debug/netcoreapp3.1/CheckDate.runtimeconfig.dev.json
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/bin/Debug/netcoreapp3.1/CheckDate.dll
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/bin/Debug/netcoreapp3.1/CheckDate.pdb
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/obj/Debug/netcoreapp3.1/CheckDate.csproj.AssemblyReference.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/obj/Debug/netcoreapp3.1/CheckDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/obj/Debug/netcoreapp3.1/CheckDate.AssemblyInfoInputs.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/obj/Debug/netcoreapp3.1/CheckDate.AssemblyInfo.cs
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/obj/Debug/netcoreapp3.1/CheckDate.csproj.CoreCompileInputs.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/obj/Debug/netcoreapp3.1/CheckDate.dll
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/obj/Debug/netcoreapp3.1/CheckDate.pdb
+/Users/thn/RiderProjects/timesheet-calculation-app/CheckDate/obj/Debug/netcoreapp3.1/CheckDate.genruntimeconfig.cache

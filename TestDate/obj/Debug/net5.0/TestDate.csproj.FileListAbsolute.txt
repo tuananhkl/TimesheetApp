@@ -1,0 +1,16 @@
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/bin/Debug/net5.0/TestDate
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/bin/Debug/net5.0/TestDate.deps.json
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/bin/Debug/net5.0/TestDate.runtimeconfig.json
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/bin/Debug/net5.0/TestDate.runtimeconfig.dev.json
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/bin/Debug/net5.0/TestDate.dll
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/bin/Debug/net5.0/TestDate.pdb
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/TestDate.csproj.AssemblyReference.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/TestDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/TestDate.AssemblyInfoInputs.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/TestDate.AssemblyInfo.cs
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/TestDate.csproj.CoreCompileInputs.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/TestDate.dll
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/refint/TestDate.dll
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/TestDate.pdb
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/TestDate.genruntimeconfig.cache
+/Users/thn/RiderProjects/timesheet-calculation-app/TestDate/obj/Debug/net5.0/ref/TestDate.dll

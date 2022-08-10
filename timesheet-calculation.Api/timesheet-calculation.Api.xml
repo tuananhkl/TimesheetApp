@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>timesheet-calculation.Api</name>
+    </assembly>
+    <members>
+        <member name="M:timesheet_calculation.Api.Controllers.TimeSheetController.DailyCheckInAndOut(System.Guid,timesheet_calculation.Data.Dtos.CreateTimeSheetDto)">
+            <summary>
+            Checkin - Checkout Daily
+            </summary>
+            <param name="userId"></param>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:timesheet_calculation.Api.Controllers.TimeSheetController.GetTimeSheetByUserId(System.Guid)">
+            <summary>
+            Get total working days of userId
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:timesheet_calculation.Api.Controllers.TimeSheetManagerController.CreateDaysInAParticularYear(System.Int32)">
+            <summary>
+            Post days information for a year
+            </summary>
+            <param name="year"></param>
+            <returns></returns>
+        </member>
+        <member name="M:timesheet_calculation.Api.Controllers.TimeSheetManagerController.UpdateAParticularDay(System.Int32,System.Int32,System.Int32,timesheet_calculation.Data.Dtos.UpdateTimeSheetDto)">
+            <summary>
+            Type: 0 -> Workday, 1 -> DayOff, 2 -> Holiday
+            </summary>
+            <param name="year"></param>
+            <param name="month"></param>
+            <param name="day"></param>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
